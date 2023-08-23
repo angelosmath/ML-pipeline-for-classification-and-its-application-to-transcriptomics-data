@@ -1,4 +1,4 @@
-# Semester project: Construction of Machine learning pipeline for classification and its application to transcriptomics data.
+# Construction of Machine learning pipeline for classification and its application to transcriptomics data.
 
 
 ## Abstract
